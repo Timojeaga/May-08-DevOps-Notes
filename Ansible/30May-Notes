@@ -1,3 +1,4 @@
+For Jenkins plugin Path configuration, on the Cmd terminal, do "which ansible" to get the path and input into the jenkins
 Ansible Notes
 
 Create 2 instances and start them
